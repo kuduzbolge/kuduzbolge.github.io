@@ -1,0 +1,110 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #303030;
+}
+
+#navbar{
+	background-color: rgb(113,125,208);
+	width: 100%;
+	height: 125px;
+	position: fixed;
+	z-index: 999999;
+	box-shadow: 4px 4px 4px black;
+}
+
+.container {
+	padding: 170px 0px 0px;
+}
+
+.logo {
+	margin: 5px 10px;
+}
+
+.ilk-baslik {
+	border: solid 2px rgb(113,125,208);
+	border-radius: 16px;
+	color: #e5e5e5;
+	text-align: center;
+}
+
+
+.ilk-baslik span {
+	font-weight: 1000;
+	background-color: rgb(113,125,208);
+}
+
+.logo {
+	margin: 5 20px;
+}
+
+.icon {
+	text-align: right;
+	margin: -80px 20px;
+	font-size: 1rem;
+	font-weight: 1000;
+}
+
+.icon a {
+	text-decoration: none;
+	color: #fff;
+}
+
+.icon a:hover {
+	border-top: solid 1.7px #000;
+	border-bottom: solid 1.7px #000;
+}
+
+.icon a:active {
+	border-top: solid 1.7px rgb(204,51,102);
+	border-bottom: solid 1.7px rgb(204,51,102);
+}
+
+.icon li {
+	display: inline-block;
+	padding: 3px;
+}
+
+.noscript {
+	color: white;
+}
+
+.hakkimizda {
+    background-color: rgb(204,51,102);
+    text-align: center;
+    color: #fff;
+    animation: hakkimizda 4s linear;
+    animation-iteration-count: infinite;
+    animation-delay: 0.25s;
+}
+
+@keyframes hakkimizda {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        background-color: rgb(113,128,205);
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+
+/*Video alanı*/
+
+.myGmPVAh {
+    margin: auto;
+    width: 180px;
+    padding: 30px 0px;
+}
+
+.myGmPVAh img {
+    filter: brightness(0);
+}
+
+
