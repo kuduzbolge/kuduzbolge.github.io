@@ -4,6 +4,27 @@
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 		<link rel="stylesheet" href="./style.css">
+		<style>
+			#content-menu img {
+				border-radius: 16px;
+				border: solid 3px rgb(113,125,208);
+			}
+			#content-menu img:hover {
+				opacity: .6;
+			}
+			#content-menu img:active {
+				transition: 200ms all;
+				transform: scale(.6,1);
+				animation: images 0.2s;
+				animation-delay: 0ms;
+				animation-iteration-count: 1;
+				animation-fill-mode: forwards;
+			}
+			@keyframes images {
+				0%,100% {
+					border: solid 3px rgb(204,51,102);
+				}
+		</style>
 
 	</head>
 	
@@ -16,13 +37,13 @@
 			<div id="navbarContainer">
 				<div class="logo">
 					<a href="./index.html">
-					<img width="70px" src="./logo.svg"></a>
+					<img id="logo" width="70px" src="./logo.svg"></a>
 		    	</div>
 				<div class="icon">
 						<ul>
 							<li><a href="hakkimizda.html">Hakkımızda</a></li>
-							<li><a href="#">Yardım</a></li>
-							<li><a href="#">İletişim</a></li>
+							<li><a href="https://youtube.com/c/RMusicKRT">Yardım</a></li>
+							<li><a href="./iletisim.html">İletişim</a></li>
 						</ul>
 				</div>
 				
@@ -52,7 +73,7 @@
 			<!--myGmPVAh-->
 			<div id="content-menu">
 			    <a href="./pages/myGmPVAh.html">
-			    <image width="180px" height="360px" src="./images/myGmPVAh.jpg">
+			    <img width="180px" height="360px" src="./images/myGmPVAh.jpg">
 			        </a>
 			</div>
 			
@@ -60,7 +81,7 @@
 			<!--UreZbFbM-->
 			<div id="content-menu">
 			    <a href="./pages/UreZbFbM.html">
-			    <image width="180px" height="320px" src="./images/UreZbFbM.png">
+			    <img width="180px" height="320px" src="./images/UreZbFbM.png">
 			        </a>
 			</div>
 			
@@ -68,7 +89,15 @@
 			<!--GcbdIEWc-->
 			<div id="content-menu">
 			    <a href="./pages/GcbdIEWc.html">
-			    <image width="180px" height="180px" src="https://m.box.com/file/1002471456611/download?shared_link=https%3A%2F%2Fapp.box.com%2Fs%2Fhzcb9kz2o7koom78d9p5z2a0z4ye97w4">
+			    <img width="180px" height="180px" src="./images/GcbdIEWc.jpg">
+			        </a>
+			</div>
+			
+			
+			<!--KtucwMUI-->
+			<div id="content-menu">
+			    <a href="./pages/KtucwMUI.html">
+			    <img width="180px" height="321px" src="./images/KtucwMUI.png">
 			        </a>
 			</div>
 			
