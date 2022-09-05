@@ -9,3 +9,59 @@
 	border: solid 2px rgb(113,125,208);
 	border-radius: 7px;
 }
+
+.date {
+	color: #FFFFFF;
+	background-color: rgb(113,125,208);
+	text-align: center;
+	border: dashed 2px #293922;
+	border-radius: 16px;
+}
+
+#ocak {
+	color: #00FF06;
+}
+
+#subat {
+	color: #00FFBE;
+}
+
+#mart {
+	color: #00B0FF;
+}
+
+#nisan {
+	color: #0055FF;
+}
+
+#mayis {
+	color: #7C00FF;
+}
+
+#haziran {
+	color: #B03AB7;
+}
+
+#temmuz {
+	color: #B73A3C;
+}
+
+#agustos {
+	color: #6EADBF;
+}
+
+#eylul {
+	color: #A8BF6E;
+}
+
+#ekim {
+	color: #54AC80;
+}
+
+#kasim {
+	color: #88E0F2;
+}
+
+#aralik {
+	color: #88F2A4;
+}
