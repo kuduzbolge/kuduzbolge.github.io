@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="tr">
+	<head>
+		<meta charset="utf-8">
+		<title>Kuduz Bölge - Yala Yala Yala Ahhh Çok Güzell!</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+		<link rel="stylesheet" href="../style.css">
+		<link rel="stylesheet" href="./content-menu.css">
+		<link rel="manifest" href="../favicon/site.webmanifest">
+		<link rel="icon" type="image/svg+xml" href="../favicon/favicon.svg">
+		<link rel="apple-touch-icon" sizes="180x180" href="../favicon/apple-touch-icon.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="../favicon/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="../favicon/favicon-16x16.png">
+		<link rel="manifest" href="../favicon/site.webmanifest">
+		<meta name="keywords" content="Kuduz Bölge Türk İfşa">
+		<meta name="description" content="Kuduz Bölge Türk İfşa Sitesi">
+		<meta name="author" content="Batınay Kurtuluş, Yusuf Berat Karakuş">
+
+	</head>
+	
+	<body oncontextmenu="return false" onselectstart="return false" ondragstart="return false" rightclick="return false">
+
+
+<!-- üst bölüm içerikleri burada tutulacaktır.-->
+
+		<div id="navbar">
+			<div id="navbarContainer">
+				<div class="logo">
+					<a href="https://kuduzbolge.github.io">
+					<img width="100px" src="../logo.svg"></a>
+		    	</div>
+				<div class="icon">
+						<ul>
+							<li><a href="../hakkimizda">Hakkımızda</a></li>
+							<li><a href="../iletisim">İletişim</a></li>
+						</ul>
+				</div>
+				
+
+			</div>
+		</div>
+
+<!-- üst bölüm içerikleri burada tutulacaktır.-->
+	
+	
+	
+<!-- orta bölüm içerikleri burada tutulacaktır.-->
+	
+		<div class="container">
+		    <div class="content-menu">
+		        <video width="100%" controls controlsList="nodownload" poster="https://9qwwha.db.files.1drv.com/y4m0vMJ5hLZYDGJbTAZEVD1W3_bh1mqGvZEx1i8E66B34YhhpjkNJvg9M4hMFI6s21PTTrY-pK4rbuU-55RNqZ2BHp6YOG-b9ZlKaN1ihQ6PYwQiTFeyObXp2pOsV_Wdeq9Ie05Jt6qRsJWvUAjngHTNRhgSvEq4QkpAAeGcEcIMMWah9owpf6VLm_1tpOyCJOwCZD6Fdg8odWeubiZ98Fbsw">
+		            <source src="https://9qvneg.db.files.1drv.com/y4mxf9rTwPGJAo3CFQF_raZdDgotNQggfFuXT4hey3t2LjoN_K7WZzUsnBoTvNBq77HAzo3nnXHPqJdxXrsZ2qoIXyWsgxkrqOzCemVoRAltLlkugMwnVcFmrtKKI6Asxw71LErZyaA5Z8I49DvaksYTsbL1P5_VmKXgEj0G6nb7cektSgvkMoAas0IXVJIvOuW-y4D79DchkA8zpkd1j41owEq4QkpAAeGcEcIMMWah9owpf6VLm_1tpOyCJOwCZ">
+		        </video>
+		    </div>
+		        <div class="date">
+		        	<span><b>Tarih: 30 <font id="ekim">Ekim</font> 2022</b>
+		        	</div>
+		    
+		    <div class="context">
+		    	<span>Evet arkadaşlar yine bir zevk vakası ile daha karşınızdayız. Normalde diğer sitelerde bu içerikler hemen siliniyor. Bugün sizlere amını adeta çılgınlar gibi yalayan bir adam var kızın aldığı zevk daha fazla ama onu söylemiş olayım. 😉</span>
+		    </div>
+
+		</div>
+		
+		<noscript class="noscript">
+			<p>ScriptEnablePlease...</p>
+		</noscript>
+		
+<!-- orta bölüm içerikleri burada tutulacaktır.-->
+
+	</body>
+</html>
