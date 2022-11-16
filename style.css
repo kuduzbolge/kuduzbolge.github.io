@@ -64,8 +64,8 @@ body {
 }
 
 .icon a:active {
-	border-top: solid 1.7px rgb(204,51,102);
-	border-bottom: solid 1.7px rgb(204,51,102);
+	border-top: solid 1.7px #00ffbd;
+	border-bottom: solid 1.7px #00ffbd;
 }
 
 .icon li {
